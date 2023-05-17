@@ -9,7 +9,7 @@ public class ControleRemoto implements Controlador {
     // Metodos especiais
 
     public ControleRemoto(){
-        this.volume = 50;
+        this.volume = 15;
         this.ligado = false;
         this.tocando = false;
     }
